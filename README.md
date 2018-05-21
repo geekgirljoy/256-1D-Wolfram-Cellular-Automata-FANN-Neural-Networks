@@ -12,7 +12,8 @@
  3. **train_specific.php**: This program lets you enter the  rule numbers into an array prior to running to train the specific rules  as FANN .net file neural networks.
  4. **ann_output_all_rule_set_images.php**: This program will render all the rules as images using the neural networks.
  5. **ann_output_specific_rule_images.php**: This program will render the specified rules as images using the specified neural networks.
- The entire set of rules (0 – 255) per-rendered as 1025x1025px PNG images.
+
+ **AND** The entire set of rules (0 – 255) per-rendered as 1025x1025px PNG images.
  
 *You will need PHP and FANN installed for this to work. I have a public tutorial on how to setup your test environment for free here:*
 
@@ -23,3 +24,5 @@
 [Getting Started 2](https://geekgirljoy.wordpress.com/2016/07/24/getting-started-with-neural-networks-using-the-fann-library-php-and-c9-io-part-2/)
 
 [Getting Started 3](https://geekgirljoy.wordpress.com/2016/08/02/getting-started-with-neural-networks-using-the-fann-library-php-and-c9-io-part-3/)
+
+

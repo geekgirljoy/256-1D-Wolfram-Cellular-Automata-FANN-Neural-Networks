@@ -4,7 +4,7 @@
 ### Here's what you get with this repo:
  256 training sets (.data files) to review, modify  and train neural networks to perform all 256 (0 – 255) rules  conveniently organized into separate files and named after the rule that  it trains the network on.
  
- 256 PRE-TRAINED neural networks (.net files) capable of performing the computation as outlined in my [Elementary Cellular Automata](https://geekgirljoy.wordpress.com/2017/10/02/ancestor-simulations-elementary-cellular-automata/) series but except via neural networks.
+ 256 PRE-TRAINED neural networks (.net files) capable of performing the computation as outlined in my [Elementary Cellular Automata](https://geekgirljoy.wordpress.com/2017/10/02/ancestor-simulations-elementary-cellular-automata/) series except via neural networks.
  
  #### 5 separate programs (.php files):  
  1. generate_rule_set.php: This program will recreate the entire set of 256 .data training files.
